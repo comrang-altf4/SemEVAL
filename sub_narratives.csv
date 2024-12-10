@@ -1,0 +1,75 @@
+Sub-Narrative,Sub-Narrative Definition,Sub-Narrative Instruction,Narrative ID
+ukraine is the aggressor,Statements that shift the responsibility of the aggression to Ukraine instead of Russia and portray Ukraine as the attacker.,None,0
+the west are the aggressors,Statements that shift the responsibility for the conflict and escalation to the Western block.,Look for direct or implied statements that mention that this conflict was a direct consequence of actions taken by the West. Consider who is being held responsible for negative events or situations.,0
+rewriting ukraine's history,Statements that aim to reestablish history of Ukrainian nation in a way that discredits its reputation.,None,1
+discrediting ukrainian nation and society,Statements that aggressively undermine the legitimacy and reputability of Ukrainian ethnicity and people,"Use this only is case that the subject of the attack is the people of Ukraine, or in case of generalizations.",1
+discrediting ukrainian military,"Statements that aim to undermine the capabilities, professionalism or effectiveness of the Ukrainian armed forces.",None,1
+discrediting ukrainian government and officials and policies,"Statements that seek to delegitimize the Ukrainian government, its leaders, and its policies, portraying them as corrupt or incompetent.",Use this only is case that the subject of the attack is the leaders of Ukraine or some of their specific policy decisions.,1
+ukraine is a puppet of the west,"Claims that Ukraine is controlled or heavily influenced by Western powers, particularly the United States and European Union.",None,1
+ukraine is a hub for criminal activities,"Allegations that Ukraine is a center for illegal activities such as human trafficking, drug smuggling, or organized crime",None,1
+ukraine is associated with nazism,"Accusations that Ukrainian society or government has ties to or sympathies with Nazi ideology, often referencing historical events or extremist groups.","This can go with discrediting Ukrainian nation, but should be used with any mention or hint of sympathy or association with (neo-) Nazism, historical or not.",1
+situation in ukraine is hopeless,Statements that portray Ukraine as having no viable perspectives or no potential positive future.,None,1
+the west is russophobic,Statements that claim that the negative reaction to Russia's actions are because of the negative perspective of western countries instead of Russia's own actions.,None,2
+russia actions in ukraine are only self-defence,Statements that justify Russia's action solely as legitimate self-defence and not a deliberate action.,None,2
+ua is anti-ru extremists,Statements claiming that Ukraine is comprised of extremist elements that are vehemently opposed to Russia.,None,2
+praise of russian military might,"Statements that positively highlight Russia's military institutions, equipment and scale.",None,3
+praise of russian president vladimir putin,"Statements that present Vladimir Putin positively, including his personal and leadership qualities.",None,3
+russia is a guarantor of peace and prosperity,"Statements that portray Russia solely in a positive manner, emphasising their potential to provide peace and prosperity to those that cooperate.",None,3
+russia has international support from a number of countries and people,Statements that emphasise the popularity and acceptance of Russia in the international stage.,None,3
+russian invasion has strong national support,Statements that emphasise the popularity and acceptance of the invasion inside Russia and on Russian-speaking populations.,Use this only when there is mention to the Russian population or the segment of the population in Ukraine that supports Russia.,3
+nato will destroy russia,Statements that suggest or claim that the North Atlantic Treaty Organization (NATO) and its allies are capable or already in the process of eradicating Russia.,None,4
+the west belongs in the right side of history,Statements that portray Western nations and their actions as morally superior and aligned with progress and justice and possess moral superiority.,None,4
+the west has the strongest international support,Statements that emphasize or claim widespread backing for Western policies and actions from the international community. Potentially downplaying opposition or criticism.,None,4
+russian army is collapsing,"Statements that suggest or claim that the Russian military is experiencing a significant decline in its effectiveness, strength, or morale.",None,5
+russian army will lose all the occupied territories,"Speculative statements that predict or assume the potential outcomes of the conflict, specifically regarding the possibility of the Russian military losing control of all the territories it currently occupies.",None,5
+ukrainian army is collapsing,"Statements that suggest or claim that the Ukrainian military is experiencing a significant decline in its effectiveness, strength, or morale.",None,5
+the eu is divided,"Statements that present the EU as a set of divided entities and interests, usually unable to take actions.",None,6
+the west is weak,Statements presenting the West overall as a non-potent group of countries (that is not as powerful as it used to be).,None,6
+the west is overreacting,Statements that claim that the West and its institutions are reacting to Russia's actions in a disproportionate manner.,None,6
+"the west does not care about ukraine, only about its interests","Statements that claim that the West is only interested in Ukraine for its own benefits, disregarding the country's fate.",None,6
+diplomacy does/will not work,Statements discrediting the potential of ongoing or potential diplomatic efforts.,None,6
+west is tired of ukraine,"Claims that Western countries, particularly the United States and European nations, are becoming fatigued or disinterested in supporting Ukraine and its efforts.",None,6
+sanctions imposed by western countries will backfire,Statements that catastrophize on the possible negative effects for Western sanctions of Russia.,None,7
+the conflict will increase the ukrainian refugee flows to europe,Statements that catastrophize on the possible refugee outflows due to the conflict.,None,7
+western media is an instrument of propaganda,Statements that discredit the media institutions of the West and claim that they are instruments of propaganda.,None,8
+ukrainian media cannot be trusted,Statements that discredit the media institutions of the Ukraine and claim that they should not be trusted for reporting on the war.,None,8
+by continuing the war we risk wwiii,"Statements that warn against upsetting Russia's and its leadership, evoking fear of causing WW3.",None,9
+russia will also attack other countries,Statements that claim that it is imminent that Russia will attack other countries.,None,9
+there is a real possibility that nuclear weapons will be employed,Statements that evoke fear or anxiety about the use of nuclear weapons.,"This narrative can potentially go in two directions, either claiming that West should not anger Russia, or that Russia should be stopped before they use them.",9
+nato should/will directly intervene,"Statements that suggest or claim that the North Atlantic Treaty Organization (NATO) ought to or will take direct military action in a conflict, potentially implying a shift in policy or strategy.",None,9
+climate policies are ineffective,Statements suggesting that climate policies fail to achieve their intended environmental goals.,None,11
+climate policies have negative impact on the economy,Statements claiming that climate policies lead to negative economic outcomes.,None,11
+climate policies are only for profit,Statements that argue climate policies are driven by financial or corporate gain rather than genuine environmental concerns.,None,11
+criticism of the eu,Statements that express disapproval or distrust of the EU's role or approach to climate change or the EU in general.,None,12
+criticism of international entities,Statements that criticize the role and influence of international entities on climate policy.,None,12
+criticism of national governments,Statements that disapprove of the ways national governments handle climate change.,None,12
+criticism of political organizations and figures,Statements that discredit political organizations and figures in the context of climate change debate.,None,12
+co2 is beneficial,Statements suggesting that increased CO2 levels have positive impacts on the environment.,None,13
+temperature increase is beneficial,Statements claiming that rising global temperatures can have positive effects.,None,13
+climate cycles are natural,Statements suggesting that climate change is a natural and cyclical occurrence.,None,14
+weather suggests the trend is global cooling,Statements using local or short-term weather patterns to argue against global warming.,None,14
+temperature increase does not have significant impact,Statements claiming that the increase in temperature is not going to have any noticeable effect in nature.,None,14
+co2 concentrations are too small to have an impact,Statements claiming that the concentrations of CO2 will have a negligible effect.,None,14
+human activities do not impact climate change,Statements that support that climate change is not caused by human activity.,None,14
+ice is not melting,Statements claiming that there is not melting of ice.,None,14
+sea levels are not rising,Statements denying that sea levels have risen (or will rise).,None,14
+humans and nature will adapt to the changes,Statements claiming that whatever the changes in climate humans or nature will manage to find solutions to adapt.,None,14
+methodologies/metrics used are unreliable/faulty,Statements claiming that the scientific methodologies and metrics used to measure climate change are flawed or unreliable.,None,15
+data shows no temperature increase,Statements asserting that available data does not support the claim of global temperature increase.,None,15
+greenhouse effect/carbon dioxide do not drive climate change,Statements asserting that available data does not support the claim of global temperature increase.,None,15
+scientific community is unreliable,"Statements discrediting scientists, the scientific community and their actions.",None,15
+climate movement is alarmist,Statements suggesting that the climate movement exaggerates the severity of climate change for dramatic effect.,None,16
+climate movement is corrupt,"Statements alleging that the climate movement is influenced by ulterior motives, by corruption or by unethical practices.",None,16
+ad hominem attacks on key activists,"Statements attacking the reputation of key figures (such as scientists, activists, politicians or public figures).",None,16
+renewable energy is dangerous,Statements claiming that renewable energy sources pose significant risks or dangers.,None,17
+renewable energy is unreliable,Statements asserting that renewable energy sources are not dependable for widespread adoption.,None,17
+renewable energy is costly,"Statements asserting that renewable energy sources are too expensive, inefficient and worth adopting for widespread use.",None,17
+nuclear energy is not climate friendly,Statements asserting that nuclear sources are or should not be considered as good for the climate.,None,17
+blaming global elites,Statements attributing climate change agendas to secretive and powerful global elites.,None,18
+climate agenda has hidden motives,"Claims that the push for climate action is driven by ulterior motives, such as political power or population control.",None,18
+earth will be uninhabitable soon,Statements predicting that the Earth will become uninhabitable in the near future due to climate change.,None,19
+amplifying existing fears of global warming,Statements that are using fears related to warming of the earths surface and atmosphere and speculating on side effects to spread panic.,None,19
+doomsday scenarios for humans,Statements presenting intense catastrophic scenarios as results of climate change.,None,19
+whatever we do it is already too late,Statements that minimize the urgency of addressing climate change by suggesting that any action taken at this point is futile or too late to make a meaningful impact.,None,19
+climate-related international relations are abusive/exploitative,Statements criticizing international relations related to climate change as exploitative or economically abusive.,None,20
+green activities are a form of neo-colonialism,"Statements suggesting that green initiatives are a way for developed countries to exert control and influence over developing nations, a modern form of colonial practices.",None,20
